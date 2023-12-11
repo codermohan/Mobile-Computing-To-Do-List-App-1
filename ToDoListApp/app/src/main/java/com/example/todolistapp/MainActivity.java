@@ -1,5 +1,4 @@
 package com.example.todolistapp;
-
 import android.content.ContentValues;
 import android.content.DialogInterface;
 import android.database.Cursor;
