@@ -1,7 +1,5 @@
 package com.example.todolistapp;
-
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 /**
